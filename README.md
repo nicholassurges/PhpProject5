@@ -1,5 +1,4 @@
-# PhpProject5
-
+# PhpRecordsFromDataBase
 Script 1
 Create a php file to connect to the books_sc database. You can name this file connect.php. This
 separate file will be ‘included’ in the other scripts, script 2 and script 2
